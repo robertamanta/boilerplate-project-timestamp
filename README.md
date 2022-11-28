@@ -12,3 +12,8 @@ This is my project of the Timestamp Microservice challenge for the freeCodeCamp 
 
 Usage:
 
+1. https://boilerplate-project-timestamp-1.robertamanta.repl.co/api
+
+2. https://boilerplate-project-timestamp-1.robertamanta.repl.co/api/2022-12-01
+
+3. https://boilerplate-project-timestamp-1.robertamanta.repl.co/api/1669852800000
