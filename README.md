@@ -1,5 +1,7 @@
 # Timestamp Microservice
 
+[![Run on Repl.it](https://replit.com/badge/github/robertamanta/boilerplate-project-timestamp)](https://replit.com/new/github/robertamanta/boilerplate-project-timestamp)
+
 This is my project of the Timestamp Microservice challenge for the freeCodeCamp API and Microservice certification.
 
 # Documentation
