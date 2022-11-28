@@ -10,7 +10,7 @@ This is my project of the Timestamp Microservice challenge for the freeCodeCamp 
 4. If the date string is valid the api returns a JSON having the structure {"unix": <date.getTime()>, "utc" : <date.toUTCString()> } e.g. {"unix": 1669852800000 ,"utc": "Thu, 01 Dec 2022 00:00:00 GMT"}.
 5. If the date string is invalid the api returns a JSON having the structure { error : "Invalid Date" }. 
 
-Usage:
+# Usage:
 
 1. https://boilerplate-project-timestamp-1.robertamanta.repl.co/api
 
