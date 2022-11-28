@@ -1,10 +1,10 @@
 /****** Main Styling ******/
 
 body {
-	font-family: 'Roboto', sans-serif;
-	font-size: 16px;
-	color: #222;
-	background-color: #FaFaFa;
+	font-family: 'Tahoma', sans-serif;
+	font-size: 18px;
+	color: #FaFaFa;
+	background-color:#990000;
 	text-align: center;
 	line-height: 1.4em;
 }
@@ -14,17 +14,23 @@ body {
 	margin-top: 40px;
 }
 
+h1{
+	margin: 2em 1em 1em 1em;
+	font-style: italic;
+
+}
 h3 {
-  margin-top: 30px;
+  margin-top: 2em;
 }
 
 hr {
-	margin: 25px;
+	margin: auto;
+	border: 0.15em solid #FaFaFa;
+	border-radius: 5px;
+	background-color: #FaFaFa;
+	width:60%;
 }
 
-.footer {
-	margin-top: 40px;
-}
 
 code {
   font-family: monospace;
@@ -35,12 +41,28 @@ code {
 
 ul {
 	list-style-type: none;
+	counter-reset: li; 
+	padding: 0;
+	text-shadow: 0 1px 0 rgba(255,255,255,.5);
 }
 
 li {
-  margin-bottom: 0.5em;
+  /*margin-bottom: 0.5em;*/
+  position: relative;
+  display: block;
+  padding: .4em .4em .4em .8em;
+  margin: 1em auto;
+  width: 60%;
+  background: #500101;
+  color: #444;	
+  text-decoration: none;
+  border: 0.15em solid #500101;
+  border-radius: 10px;
+  box-shadow: 10px 10px 5px #420e0e;
+  
 }
 
 a {
-	color: #2574A9;
+	color: #fff;
+
 }
